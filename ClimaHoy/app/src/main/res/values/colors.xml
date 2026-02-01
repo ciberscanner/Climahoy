@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#ffffff</color>
+    <color name="cloud">#f1f2f6</color>
+    <color name="disable">#E9E9F0</color>
+
+    <color name="splash_background">#0D47A1</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="glass_white">#80FFFFFF</color>
+    <color name="glass_white_pressed">#99FFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+
+    <color name="glass_blue">#DE003C8A</color>
+
+    <color name="glass_yellow">#DEf1c40f</color>
+
+
+    <color name="colorStart">#0D47A1</color>
+    <color name="colorEnd">#1976D2</color>
+
+    <color name="cardDayBack">#9FDCA8</color>
+    <color name="cardNightBack">#615273</color>
+
+    <color name="cardDayText">#1976D2</color>
+
+</resources>
