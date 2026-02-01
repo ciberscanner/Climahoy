@@ -12,3 +12,11 @@ Una app desarrollada en Android que hace uso de la API https://www.weatherapi.co
 - Android
 - Retrofit
 - Hilt
+
+Los modelos fueron generados automaticamente usando los JSON que entrega la api al consumir los servicios
+
+Ciudades: https://api.weatherapi.com/v1/search.json?key=de5553176da64306b86153651221606&q=b
+
+Estado del tiempo: https://api.weatherapi.com/v1/forecast.json?key=de5553176da64306b86153651221606&q=5.063718,-75.513731&days=3
+
+Generador de modelos: https://json2kt.com/
